@@ -14,10 +14,10 @@ Product Code Mandatory
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fproduct--attribute-lightgray.png?logo=github
-    :target: https://github.com/OCA/product-attribute/tree/13.0/product_code_mandatory
+    :target: https://github.com/OCA/product-attribute/tree/14.0/product_code_mandatory
     :alt: OCA/product-attribute
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/product-attribute-13-0/product-attribute-13-0-product_code_mandatory
+    :target: https://translation.odoo-community.org/projects/product-attribute-14-0/product-attribute-13-0-product_code_mandatory
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
     :target: https://runbot.odoo-community.org/runbot/135/13.0
